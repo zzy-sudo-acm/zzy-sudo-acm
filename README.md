@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&amp;center=true&vCenter=true&width=500&lines=Hi%2C+I'm+zzy-sudo-acm+%F0%9F%91%8B;A+CS+student+exploring...;Algorithms+%E2%80%A2+Systems+%E2%80%A2+AI)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Hi%2C+I'm+zzy-sudo-acm+%F0%9F%91%8B;A+CS+student+exploring...;Algorithms+%E2%80%A2+Systems+%E2%80%A2+AI)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zzy-sudo-acm&style=flat-square&color=lightgrey" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/zzy-sudo-acm?style=flat-square&color=lightgrey" alt="followers" />
-  <img src="https://img.shields.io/github/stars/zzy-sudo-acm?style=flat-square&color=lightgrey&affiliations=OWNER" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=zzy-sudo-acm&amp;style=flat-square&amp;color=lightgrey" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/zzy-sudo-acm?style=flat-square&amp;color=lightgrey" alt="followers" />
+  <img src="https://img.shields.io/github/stars/zzy-sudo-acm?style=flat-square&amp;color=lightgrey&amp;affiliations=OWNER" alt="stars" />
 </p>
 
 ---
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,py,linux,git,docker,vscode,cmake,bash&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,py,linux,git,docker,vscode,cmake,bash&amp;theme=dark" />
   </a>
 </p>
 
@@ -47,15 +47,6 @@
 
 ---
 
-### 📊 Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zzy-sudo-acm&show_icons=true&theme=dark&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzy-sudo-acm&layout=compact&theme=dark&hide_border=true&langs_count=6" />
-</p>
-
----
-
 ### 🌱 Currently Learning
 
 `Algorithms` `Computer Networks` `Operating Systems` `AI Infra` `Dev Tools`
@@ -66,7 +57,7 @@
 
 <p align="center">
   <a href="https://github.com/zzy-sudo-acm">
-    <img src="https://img.shields.io/badge/GitHub-zzy--sudo--acm-lightgrey?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-zzy--sudo--acm-lightgrey?style=flat-square&amp;logo=github" />
   </a>
 </p>
 

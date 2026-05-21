@@ -19,11 +19,12 @@
 
 ### 🧠 Currently into
 
-- **AI Infra** — LLM 推理部署、CUDA kernel、分布式训练
-- **Systems** — 操作系统 & 编译原理（408 啃书中）
-- **Dev Tools** — CLI 工具、自动化脚本、终端美化
-
 打过一点算法竞赛，写 C++ 居多。最近在折腾 AI 工具链和系统底层的东西。喜欢把重复的事情自动化。
+
+- **Algorithms** — 刷题 & 竞赛，主写 C++
+- **AI Infra** — 对 LLM 推理、底层优化方向感兴趣，正在入门
+- **Systems** — 在学习操作系统和编译原理的路上
+- **Dev Tools** — CLI 工具、自动化脚本、终端美化
 
 ---
 
@@ -41,9 +42,8 @@
 
 | Project | Description |
 |---------|-------------|
-| 🧪 algo-practice | 算法竞赛训练记录 & 模板库（C++） |
-| 🛠 claude-config | Claude Code 配置 & 自动化脚本集合 |
-| 📋 problem-web | 网页刷题系统（练手项目） |
+| 🧪 [quiz-app](https://github.com/zzy-sudo-acm/quiz-app) | 刷题 & 自测小工具（PWA） |
+| 🛠 dotfiles & config | 终端配置、Claude Code 工作流、日常自动化脚本 |
 
 ---
 
@@ -58,7 +58,7 @@
 
 ### 🌱 Currently Learning
 
-`OS` `Computer Network` `Computer Architecture` `Data Structure` — 408 四件套，顺便把 CMU 15-445 刷完。
+`Algorithms` `Computer Networks` `Operating Systems` `AI Infra` `Dev Tools`
 
 ---
 

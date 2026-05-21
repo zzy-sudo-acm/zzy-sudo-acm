@@ -1,16 +1,75 @@
-## Hi there 👋
 
-<!--
-**zzy-sudo-acm/zzy-sudo-acm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+zzy-sudo-acm+%F0%9F%91%8B;A+CS+student+exploring...;Algorithms+%E2%80%A2+Systems+%E2%80%A2+AI)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+<p align="center">
+  一个在算法、系统与 AI 之间持续探索的计算机学生。
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=zzy-sudo-acm&style=flat-square&color=lightgrey" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/zzy-sudo-acm?style=flat-square&color=lightgrey" alt="followers" />
+  <img src="https://img.shields.io/github/stars/zzy-sudo-acm?style=flat-square&color=lightgrey&affiliations=OWNER" alt="stars" />
+</p>
+
+---
+
+### 🧠 Currently into
+
+- **AI Infra** — LLM 推理部署、CUDA kernel、分布式训练
+- **Systems** — 操作系统 & 编译原理（408 啃书中）
+- **Dev Tools** — CLI 工具、自动化脚本、终端美化
+
+打过一点算法竞赛，写 C++ 居多。最近在折腾 AI 工具链和系统底层的东西。喜欢把重复的事情自动化。
+
+---
+
+### 🔧 Tech & Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,py,linux,git,docker,vscode,cmake,bash&theme=dark" />
+  </a>
+</p>
+
+---
+
+### 📌 Projects
+
+| Project | Description |
+|---------|-------------|
+| 🧪 algo-practice | 算法竞赛训练记录 & 模板库（C++） |
+| 🛠 claude-config | Claude Code 配置 & 自动化脚本集合 |
+| 📋 problem-web | 网页刷题系统（练手项目） |
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zzy-sudo-acm&show_icons=true&theme=dark&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzy-sudo-acm&layout=compact&theme=dark&hide_border=true&langs_count=6" />
+</p>
+
+---
+
+### 🌱 Currently Learning
+
+`OS` `Computer Network` `Computer Architecture` `Data Structure` — 408 四件套，顺便把 CMU 15-445 刷完。
+
+---
+
+### 📫 Get in touch
+
+<p align="center">
+  <a href="https://github.com/zzy-sudo-acm">
+    <img src="https://img.shields.io/badge/GitHub-zzy--sudo--acm-lightgrey?style=flat-square&logo=github" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>— built with caffeine and curiosity —</sub>
+</p>

@@ -3,7 +3,7 @@
 # zzy-sudo-acm
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2400&pause=900&color=7AA2F7&center=true&vCenter=true&width=520&lines=Algorithms+%26+Systems;AI+Infra+in+progress;Build+small%2C+debug+deep"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2400&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Algorithms+%26+Systems;AI+Infra+in+progress;Build+small%2C+debug+deep"
   alt="Typing SVG: Algorithms and Systems, AI Infra in progress, Build small debug deep"
 />
 
@@ -15,50 +15,44 @@
 
 ## ./about
 
-```txt
-CS student, mostly between algorithms, networks, and operating systems.
-Competitive programming keeps the edge sharp; systems work keeps it honest.
-Long-term: AI infrastructure and developer tools that stay practical.
-```
+**CS student** moving between algorithms, computer networks, and operating systems.
+
+Competitive programming keeps the edge sharp.
+
+Systems work keeps it honest.
+
+Long-term direction: **AI infrastructure** and **developer tools** that stay practical.
 
 ## ./current-focus
 
-- `Competitive Programming`
-- `Computer Networks`
-- `Operating Systems`
-- `AI Infrastructure`
-- `Dev Tools`
+- **Competitive Programming** — algorithms and problem solving
+- **Computer Networks** — fundamentals and engineering
+- **Operating Systems** — systems thinking
+- **AI Infrastructure** — long-term direction
+- **Dev Tools** — small tools for real workflows
 
 ## ./tech-stack
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-0d1117?style=flat-square&logo=cplusplus&logoColor=7aa2f7&labelColor=0d1117" alt="C++" />
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=7aa2f7&labelColor=0d1117" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=7aa2f7&labelColor=0d1117" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML%2FCSS-0d1117?style=flat-square&logo=html5&logoColor=7aa2f7&labelColor=0d1117" alt="HTML/CSS" />
-  <img src="https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=7aa2f7&labelColor=0d1117" alt="Git" />
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=7aa2f7&labelColor=0d1117" alt="Linux" />
-  <img src="https://img.shields.io/badge/VS%20Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=7aa2f7&labelColor=0d1117" alt="VS Code" />
+  <img height="52" src="https://skillicons.dev/icons?i=cpp,py,js,html,css,git,linux,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
 ## ./featured-project
 
 ### [quiz-app](https://github.com/zzy-sudo-acm/quiz-app)
 
-A lightweight quiz practice tool for self-testing and reviewing missed questions.
+A lightweight quiz practice tool for **random practice**, **self-testing**, and **missed-question review**.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML%2FCSS-0d1117?style=flat-square&logo=html5&logoColor=7aa2f7&labelColor=0d1117" alt="HTML/CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=7aa2f7&labelColor=0d1117" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/GitHub%20Pages-0d1117?style=flat-square&logo=githubpages&logoColor=7aa2f7&labelColor=0d1117" alt="GitHub Pages" />
-</p>
+Built for turning question banks into a cleaner practice workflow.
+
+**Stack:** HTML/CSS · JavaScript · GitHub Pages
 
 ## ./learning-roadmap
 
-- `Algorithms` → ICPC practice
-- `Networks` → fundamentals and engineering
-- `OS` → systems thinking
-- `AI Infra` → long-term direction
+- **Algorithms** → ICPC practice and problem-solving depth
+- **Networks** → protocols, architecture, and engineering basics
+- **Operating Systems** → processes, memory, files, and systems thinking
+- **AI Infra** → distributed systems, scheduling, storage, and practical tooling
 
 <br />
 

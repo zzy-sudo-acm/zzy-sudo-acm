@@ -1,39 +1,73 @@
-# Hi, I'm zzy-sudo-acm
+<div align="center">
 
-一个在算法、系统与 AI 之间持续探索的计算机学生。
+# zzy-sudo-acm
 
----
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2600&pause=850&color=7AA2F7&center=true&vCenter=true&width=720&lines=Algorithms+%2F+Systems+%2F+AI+Infra;Dev+Tools+for+learning+and+building;Stay+curious%2C+ship+small%2C+debug+deep"
+  alt="Typing SVG: Algorithms, Systems, AI Infra, Dev Tools"
+/>
 
-### Currently into
-
-打过一点算法竞赛，写 C++ 居多。最近在折腾 AI 工具链和系统底层的东西。喜欢把重复的事情自动化。
-
-- **Algorithms** — 刷题 & 竞赛，主写 C++
-- **AI Infra** — 对 LLM 推理、底层优化方向感兴趣，正在入门
-- **Systems** — 在学习操作系统和计算机网络的路上
-- **Dev Tools** — CLI 工具、自动化脚本、终端美化
+</div>
 
 ---
 
-### Tech & Tools
+## About
 
-`C++` `Python` `JavaScript` `HTML/CSS` `Git` `Linux` `VS Code`
+I am a computer science student exploring algorithms, systems, AI infrastructure, and small developer tools.
+
+I like building practical things that help with learning, practice, and everyday engineering workflows.
 
 ---
 
-### Projects
+## Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-1f2335?style=flat-square&logo=cplusplus&logoColor=7aa2f7&labelColor=1f2335" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-1f2335?style=flat-square&logo=python&logoColor=7aa2f7&labelColor=1f2335" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-1f2335?style=flat-square&logo=javascript&logoColor=7aa2f7&labelColor=1f2335" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML%2FCSS-1f2335?style=flat-square&logo=html5&logoColor=7aa2f7&labelColor=1f2335" alt="HTML/CSS" />
+  <img src="https://img.shields.io/badge/Git-1f2335?style=flat-square&logo=git&logoColor=7aa2f7&labelColor=1f2335" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-1f2335?style=flat-square&logo=linux&logoColor=7aa2f7&labelColor=1f2335" alt="Linux" />
+  <img src="https://img.shields.io/badge/VS%20Code-1f2335?style=flat-square&logo=visualstudiocode&logoColor=7aa2f7&labelColor=1f2335" alt="VS Code" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img
+    width="390"
+    src="https://github-readme-stats.vercel.app/api?username=zzy-sudo-acm&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+    alt="zzy-sudo-acm GitHub stats"
+  />
+  <img
+    width="320"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzy-sudo-acm&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    alt="Top languages"
+  />
+</p>
+
+---
+
+## Projects
 
 | Project | Description |
-|---|---|
-| [quiz-app](https://github.com/zzy-sudo-acm/quiz-app) | 刷题 & 自测小工具 |
-| more coming soon | 继续折腾中... |
+| --- | --- |
+| [quiz-app](https://github.com/zzy-sudo-acm/quiz-app) | A lightweight tool for question practice, self-testing, and reviewing missed questions. |
 
 ---
 
-### Currently Learning
+## Currently Learning
 
-`Algorithms` `Computer Networks` `Operating Systems` `AI Infra` `Dev Tools`
+- Algorithms
+- Computer Networks
+- Operating Systems
+- AI Infra
+- Dev Tools
 
 ---
 
-_Stay curious. Build quietly._
+<p align="center">
+  <sub>Learning in public, one small tool at a time.</sub>
+</p>

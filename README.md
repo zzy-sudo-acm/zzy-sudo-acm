@@ -9,6 +9,15 @@
 
 <sub>algorithms // systems // ai infra</sub>
 
+<br />
+
+<a href="https://github.com/zzy-sudo-acm?tab=followers">
+  <img src="https://img.shields.io/github/followers/zzy-sudo-acm?style=flat&color=7AA2F7&labelColor=1a1b26&label=followers" alt="GitHub followers" />
+</a>
+<a href="https://github.com/zzy-sudo-acm">
+  <img src="https://komarev.com/ghpvc/?username=zzy-sudo-acm&style=flat&color=7AA2F7&label=views" alt="Profile views" />
+</a>
+
 </div>
 
 <br />
@@ -17,38 +26,44 @@
 
 **CS student** focused on algorithms, systems, and AI infrastructure.
 
-Building small tools while learning deeper systems.
+Learning how models are trained, served, and scaled — from CUDA kernels to inference stacks.
 
 ## ./now
 
-training algorithms · building small tools · studying systems
+training algorithms · studying systems · exploring AI infra
 
-## ./current-focus
+## ./playground
 
-**ICPC Practice** · **Computer Networks** · **Operating Systems** · **AI Infra** · **Dev Tools**
+Things I built for fun — mostly vibe-coding experiments, not serious work:
+
+| Project | What it is |
+| --- | --- |
+| [quiz-app](https://github.com/zzy-sudo-acm/quiz-app) | Offline quiz practice with mistake tracking |
+| [quiz-android-app](https://github.com/zzy-sudo-acm/quiz-android-app) | Android quiz app, imports DOCX question banks |
+| [echo-journal](https://github.com/zzy-sudo-acm/echo-journal) | Local-first minimalist journal |
+| [siwu](https://github.com/zzy-sudo-acm/siwu) | AI chatroom with historical figures |
 
 ## ./tech-stack
 
 <p align="center">
-  <img height="54" src="https://skillicons.dev/icons?i=cpp,py,js,html,css,git,linux,vscode&theme=dark" alt="Tech Stack" />
+  <img height="54" src="https://skillicons.dev/icons?i=cpp,py,ts,kotlin,js,git,linux,docker,vscode&theme=dark" alt="Tech Stack" />
 </p>
 
-## ./featured-project
+## ./stats
 
-### [quiz-app](https://github.com/zzy-sudo-acm/quiz-app)
-
-> Practice questions. Track mistakes. Review smarter.
->
-> **Stack:** HTML/CSS · JavaScript · GitHub Pages
->
-> **Repo:** [github.com/zzy-sudo-acm/quiz-app](https://github.com/zzy-sudo-acm/quiz-app)
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zzy-sudo-acm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzy-sudo-acm&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" />
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zzy-sudo-acm&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ## ./learning-roadmap
 
 - **Algorithms** → contest depth
-- **Networks** → engineering basics
-- **OS** → systems thinking
-- **AI Infra** → long-term direction
+- **Systems** → networks, OS, engineering basics
+- **AI Infra** → training & inference, long-term direction
 
 <br />
 

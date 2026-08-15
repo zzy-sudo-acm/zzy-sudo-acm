@@ -47,9 +47,9 @@ Learning how models are trained, served, and scaled.
 
 ### ./stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=zzy-sudo-acm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" alt="stats" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zzy-sudo-acm&theme=tokyonight" alt="stats" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzy-sudo-acm&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&bg_color=00000000" alt="top languages" />
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zzy-sudo-acm&theme=tokyonight" alt="top languages" />
 
 <br />
 
